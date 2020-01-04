@@ -1,0 +1,46 @@
+body{
+  background-color: #f4f4f4;
+}
+h1{color: #d55252}
+h2{color: #d55252}
+h3{color: #d55252}
+.moh{font-family:'sacramento',cursive;}
+.amina{
+text-align: center;
+font-family: }
+.tutu{margin-left: 60%;
+  width: 100px;
+  height: auto;}
+  .lol{margin-left: 25%;
+    width: 100px;
+    height: auto}
+.master{margin-left: 390px;
+  width: 600px;
+height: auto;
+}
+.hassan{border-radius: 50%;
+  margin-left: 540px;
+width: 200px;
+height: 250px;}
+.tata{margin-left: 47%;}
+.alhassan{text-align: center;}
+
+.masta{text-align: center;
+}
+.skills{text-align: center;}
+
+
+.contact-me{text-align: center;}
+.bottom-container{text-align: center;}
+.kiki{margin-right:75%;
+  display: inline;
+}
+.skill-row{text-align: center;
+  position: relative;
+  bottom: 250px;
+
+}
+.skill{text-align: center;
+  position: relative;
+  bottom: 200px;
+}
